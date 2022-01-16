@@ -1,0 +1,14 @@
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.AssemblyInfoInputs.cache
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.AssemblyInfo.cs
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.csproj.CoreCompileInputs.cache
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\bin\Debug\net6.0\dotnet-POO-RPG.exe
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\bin\Debug\net6.0\dotnet-POO-RPG.deps.json
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\bin\Debug\net6.0\dotnet-POO-RPG.runtimeconfig.json
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\bin\Debug\net6.0\dotnet-POO-RPG.dll
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\bin\Debug\net6.0\ref\dotnet-POO-RPG.dll
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\bin\Debug\net6.0\dotnet-POO-RPG.pdb
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.dll
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\ref\dotnet-POO-RPG.dll
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.pdb
+C:\PROJETOS\ASP.NET\dotnet-POO-RPG\dotnet-POO-RPG\obj\Debug\net6.0\dotnet-POO-RPG.genruntimeconfig.cache
